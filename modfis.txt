@@ -1,5 +1,0 @@
-1/ Réduire le format des images à celle utilisée sur le site afin de réduire leur poids
-2/ Utiliser la propriété fetchpriority high sur les images qui doivent être visiblent au premier chargement
-et loading lazy sur celle qui ne le sont pas
-3/ minify les fichiers scripts et css ?
-4/ remplacer la structure html actuelle par des balises sémentique pour le SEO
